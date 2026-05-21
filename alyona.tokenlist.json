@@ -17,9 +17,9 @@
       "chainId": 11155111,
       "address": "0x9f41Fd26a9E98B6625c59325BF9701FD1FD67d26",
       "name": "KyokoSan",
-      "symbol": "KYOKO",
+      symbol": "KYOKO",
       "decimals": 18,
-      "logoURI": "https://lapkins.ru/upload/iblock/11e/11ea73b02406f137742271272c2812e5.jpg"
+      "logoURI": https://lapkins.ru/upload/iblock/11e/11ea73b02406f137742271272c2812e5.jpg
       "tags": ["KYOKO"]
     }
   ]
